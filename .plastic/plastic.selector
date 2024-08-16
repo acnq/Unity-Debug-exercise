@@ -1,0 +1,4 @@
+repository "Debug project@acnqCCC@cloud"
+  path "/"
+    br "/main"
+    co "/main"
